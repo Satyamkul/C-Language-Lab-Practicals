@@ -1,0 +1,13 @@
+This the source file created by satyam kulshreshtha
+It contain series of number upto 10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+The data of the file is copied to another file named as File_dest
